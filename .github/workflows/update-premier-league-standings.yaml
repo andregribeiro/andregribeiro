@@ -2,8 +2,8 @@ name: Update Premier League Standings
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   update-readme:
@@ -18,7 +18,7 @@ jobs:
         working-directory: ./scripts
       - name: Update standings
         working-directory: ./scripts
-        run: node update-standings.js
+        run: node update-pl-standings.js
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
       - name: Commit and push changes
