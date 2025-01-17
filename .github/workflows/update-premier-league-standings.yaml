@@ -13,18 +13,25 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 20
+
       - name: Install dependencies
         run: npm install
         working-directory: ./scripts
+
       - name: Update standings
         working-directory: ./scripts
         run: node update-pl-standings.js
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
-      - name: Commit and push changes
+
+      - name: Set up git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: Commit and push changes
+        run: |
           git add README.md
           git commit -m "Update Premier League standings" || exit 0
           git push
