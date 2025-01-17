@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Premier League Standings
+Last updated: ![Update Status](https://github.com/andregribeiro/andregribeiro/workflows/Update%20Premier%20League%20Standings/badge.svg)
+
+<!-- STANDINGS:START -->
+<!-- STANDINGS:END -->
