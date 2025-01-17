@@ -21,18 +21,18 @@ async function fetchStandings() {
 }
 
 function getColor(position) {
-  if (position === 1) return '#6fbf1f';
-  if (position >= 2 && position <= 4) return '#cbf1a5';
-  if (position === 5) return '#edee92';
-  if (position >= 18) return '#C70039';
-  return '#ffffff'; // default color
+  if (position === 1) return '🟢'; // Champions
+  if (position >= 2 && position <= 4) return '🟦'; // Champions League
+  if (position === 5) return '🟨'; // Europa League
+  if (position >= 18) return '🔴'; // Relegation
+  return '⚪'; // Mid table
 }
 
 function generateMarkdownTable(standings) {
   const header = '| Pos |  Club  | P | W | D | L | GD | Pts |\n|-----|------|----|---|---|---|----|----|';
   const rows = standings.map(team => {
-    const color = getColor(team.position);
-    return `| ${team.position} | <span style="color:${color}"><img src="${team.team.crest}" alt="${team.team.name}" width="20" height="20"> ${team.team.name}</span> | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`;
+    const statusColor = getColor(team.position);
+    return `| ${team.position} ${statusColor} | <img src="${team.team.crest}" alt="${team.team.name}" width="20" height="20"> ${team.team.name} | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`;
   });
   return [header, ...rows].join('\n');
 }
