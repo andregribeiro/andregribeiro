@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Premier League Standings
+### Premier League Standings updated with a GH Action ⚽ :octocat:
 ![Update Status](https://github.com/andregribeiro/andregribeiro/workflows/Update%20Premier%20League%20Standings/badge.svg)
 
 <!-- STANDINGS:START -->
