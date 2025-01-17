@@ -21,9 +21,9 @@ async function fetchStandings() {
 }
 
 function generateMarkdownTable(standings) {
-  const header = '| Pos | Club | P | W | D | L | GD | Pts |\n|-----|------|---|---|---|---|----|----|';
+  const header = '| Pos | Club |  | P | W | D | L | GD | Pts |\n|-----|------|----|---|---|---|---|----|----|';
   const rows = standings.map(team => 
-    `| ${team.position} | ${team.team.name} | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`
+    `| ${team.position} | ${team.team.name} | ${team.team.crest} | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`
   );
   return [header, ...rows].join('\n');
 }
