@@ -32,7 +32,7 @@ function generateMarkdownTable(standings) {
   const header = '| Pos |  Club  | P | W | D | L | GD | Pts |\n|-----|------|----|---|---|---|----|----|';
   const rows = standings.map(team => {
     const statusColor = getColor(team.position);
-    return `| ${team.position} ${statusColor} | <img src="${team.team.crest}" alt="${team.team.name}" width="20" height="20"> ${team.team.name} | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`;
+    return `|  ${statusColor} ${team.position} | <img src="${team.team.crest}" alt="${team.team.name}" width="20" height="20"> ${team.team.name} | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`;
   });
   return [header, ...rows].join('\n');
 }
