@@ -20,6 +20,23 @@ async function fetchStandings() {
   }
 }
 
+function getColor(position) {
+  if (position === 1) return '#6fbf1f';
+  if (position >= 2 && position <= 4) return '#cbf1a5';
+  if (position === 5) return '#edee92';
+  if (position >= 18) return '#C70039';
+  return '#ffffff'; // default color
+}
+
+function generateMarkdownTable(standings) {
+  const header = '| Pos |  Club  | P | W | D | L | GD | Pts |\n|-----|------|----|---|---|---|----|----|';
+  const rows = standings.map(team => {
+    const color = getColor(team.position);
+    return `| ${team.position} | <span style="color:${color}"><img src="${team.team.crest}" alt="${team.team.name}" width="20" height="20"> ${team.team.name}</span> | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`;
+  });
+  return [header, ...rows].join('\n');
+}
+
 function generateMarkdownTable(standings) {
   const header = '| Pos |  Club  | P | W | D | L | GD | Pts |\n|-----|------|----|---|---|---|----|----|';
   const rows = standings.map(team => 
