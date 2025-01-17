@@ -2,8 +2,11 @@
   "name": "github-profile-standings",
   "version": "1.0.0",
   "private": true,
-  "type": "commonjs",
+  "scripts": {
+    "test": "node -r dotenv/config update-pl-standings.js"
+  },
   "dependencies": {
-    "axios": "^0.27.2"
+    "dotenv": "^16.3.1",
+    "axios": "^1.7.9"
   }
 }
