@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Premier League Standings
-Last updated: ![Update Status](https://github.com/andregribeiro/andregribeiro/workflows/Update%20Premier%20League%20Standings/badge.svg)
+![Update Status](https://github.com/andregribeiro/andregribeiro/workflows/Update%20Premier%20League%20Standings/badge.svg)
 
 <!-- STANDINGS:START -->
 | Pos |  Club  | P | W | D | L | GD | Pts |

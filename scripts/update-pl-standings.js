@@ -34,7 +34,8 @@ function generateMarkdownTable(standings) {
     const statusColor = getColor(team.position);
     return `|  ${statusColor} ${team.position} | <img src="${team.team.crest}" alt="${team.team.name}" width="20" height="20"> ${team.team.name} | ${team.playedGames} | ${team.won} | ${team.draw} | ${team.lost} | ${team.goalDifference} | ${team.points} |`;
   });
-  return [header, ...rows].join('\n');
+  // Wrap table in a div with right alignment
+  return `<div align="right">\n\n${[header, ...rows].join('\n')}\n\n</div>`;
 }
 
 async function updateStandings() {
