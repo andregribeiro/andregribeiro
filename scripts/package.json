@@ -1,7 +1,9 @@
 {
-    "name": "github-profile-standings",
-    "version": "1.0.0",
-    "private": true,
-    "type": "commonjs",
-    "dependencies": {}
+  "name": "github-profile-standings",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^0.27.2"
   }
+}
