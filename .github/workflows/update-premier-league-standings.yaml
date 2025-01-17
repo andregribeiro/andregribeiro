@@ -12,10 +12,12 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 20
       - name: Install dependencies
         run: npm install
+        working-directory: ./scripts
       - name: Update standings
+        working-directory: ./scripts
         run: node update-standings.js
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
