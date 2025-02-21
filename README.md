@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 | Pos |  Club  | P | W | D | L | GD | Pts |
 |-----|------|----|---|---|---|----|----|
-|  🟢 1 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 25 | 18 | 6 | 1 | 36 | 60 |
+|  🟢 1 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 26 | 18 | 7 | 1 | 36 | 61 |
 |  🟦 2 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 25 | 15 | 8 | 2 | 29 | 53 |
 |  🟦 3 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 25 | 14 | 5 | 6 | 12 | 47 |
 |  🟦 4 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 25 | 13 | 5 | 7 | 17 | 44 |
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 |  ⚪ 6 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 25 | 12 | 7 | 6 | 13 | 43 |
 |  ⚪ 7 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 25 | 12 | 5 | 8 | 9 | 41 |
 |  ⚪ 8 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 25 | 10 | 9 | 6 | 5 | 39 |
-|  ⚪ 9 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 25 | 10 | 8 | 7 | -3 | 38 |
+|  ⚪ 9 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 26 | 10 | 9 | 7 | -3 | 39 |
 |  ⚪ 10 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 25 | 9 | 10 | 6 | 0 | 37 |
 |  ⚪ 11 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 25 | 10 | 4 | 11 | 1 | 34 |
 |  ⚪ 12 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 25 | 9 | 3 | 13 | 12 | 30 |
