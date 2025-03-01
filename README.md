@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 |  ⚪ 12 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 27 | 9 | 9 | 9 | 2 | 36 |
 |  ⚪ 13 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 27 | 10 | 3 | 14 | 14 | 33 |
 |  ⚪ 14 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 27 | 9 | 6 | 12 | -6 | 33 |
-|  ⚪ 15 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 27 | 7 | 11 | 9 | -4 | 32 |
-|  ⚪ 16 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 26 | 8 | 6 | 12 | -17 | 30 |
+|  ⚪ 15 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 27 | 9 | 6 | 12 | -15 | 33 |
+|  ⚪ 16 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 27 | 7 | 11 | 9 | -4 | 32 |
 |  ⚪ 17 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 27 | 6 | 4 | 17 | -19 | 22 |
 |  🔴 18 | <img src="https://crests.football-data.org/349.png" alt="Ipswich Town FC" width="20" height="20"> Ipswich Town FC | 27 | 3 | 8 | 16 | -31 | 17 |
-|  🔴 19 | <img src="https://crests.football-data.org/338.png" alt="Leicester City FC" width="20" height="20"> Leicester City FC | 26 | 4 | 5 | 17 | -34 | 17 |
+|  🔴 19 | <img src="https://crests.football-data.org/338.png" alt="Leicester City FC" width="20" height="20"> Leicester City FC | 27 | 4 | 5 | 18 | -36 | 17 |
 |  🔴 20 | <img src="https://crests.football-data.org/340.png" alt="Southampton FC" width="20" height="20"> Southampton FC | 27 | 2 | 3 | 22 | -46 | 9 |
 
 </div>
