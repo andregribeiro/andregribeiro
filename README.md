@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![Update Status](https://github.com/andregribeiro/andregribeiro/workflows/Update%20Premier%20League%20Standings/badge.svg)
 
 <!-- STANDINGS:START -->
-<div align="right">
 
 | Pos |  Club  | P | W | D | L | GD | Pts |
 |-----|------|----|---|---|---|----|----|
@@ -43,5 +42,4 @@ Here are some ideas to get you started:
 |  🔴 19 | <img src="https://crests.football-data.org/338.png" alt="Leicester City FC" width="20" height="20"> Leicester City FC | 28 | 4 | 5 | 19 | -37 | 17 |
 |  🔴 20 | <img src="https://crests.football-data.org/340.png" alt="Southampton FC" width="20" height="20"> Southampton FC | 28 | 2 | 3 | 23 | -48 | 9 |
 
-</div>
 <!-- STANDINGS:END -->
