@@ -173,26 +173,26 @@ Here are some of the technologies I've been working with recently:
 
 | Pos |  Club  | P | W | D | L | GD | Pts |
 |-----|------|----|---|---|---|----|----|
-|  🟢 1 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 4 | 4 | 0 | 0 | 5 | 12 |
-|  🟦 2 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 4 | 3 | 0 | 1 | 8 | 9 |
-|  🟦 3 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 4 | 3 | 0 | 1 | 7 | 9 |
-|  🟦 4 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 4 | 3 | 0 | 1 | 1 | 9 |
-|  🟨 5 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 4 | 2 | 2 | 0 | 6 | 8 |
-|  ⚪ 6 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 4 | 2 | 1 | 1 | 2 | 7 |
-|  ⚪ 6 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 4 | 2 | 1 | 1 | 2 | 7 |
-|  ⚪ 8 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 4 | 2 | 0 | 2 | 4 | 6 |
-|  ⚪ 9 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 4 | 1 | 3 | 0 | 3 | 6 |
-|  ⚪ 10 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 4 | 1 | 2 | 1 | 0 | 5 |
-|  ⚪ 11 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 4 | 1 | 2 | 1 | -1 | 5 |
-|  ⚪ 12 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 4 | 1 | 1 | 2 | -2 | 4 |
-|  ⚪ 13 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 4 | 1 | 1 | 2 | -2 | 4 |
-|  ⚪ 14 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 4 | 1 | 1 | 2 | -3 | 4 |
-|  ⚪ 15 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 4 | 1 | 1 | 2 | -4 | 4 |
-|  ⚪ 16 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 4 | 1 | 1 | 2 | -5 | 4 |
-|  ⚪ 17 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 4 | 1 | 0 | 3 | -3 | 3 |
-|  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 4 | 1 | 0 | 3 | -7 | 3 |
+|  🟢 1 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 5 | 5 | 0 | 0 | 6 | 15 |
+|  🟦 2 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 5 | 3 | 1 | 1 | 7 | 10 |
+|  🟦 3 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 4 | 3 | 0 | 1 | 8 | 9 |
+|  🟦 4 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 5 | 2 | 3 | 0 | 4 | 9 |
+|  🟨 5 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 4 | 3 | 0 | 1 | 1 | 9 |
+|  ⚪ 6 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 5 | 2 | 2 | 1 | 5 | 8 |
+|  ⚪ 7 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 5 | 2 | 2 | 1 | 1 | 8 |
+|  ⚪ 8 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 4 | 2 | 1 | 1 | 2 | 7 |
+|  ⚪ 9 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 5 | 2 | 1 | 2 | 1 | 7 |
+|  ⚪ 10 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 5 | 2 | 1 | 2 | -2 | 7 |
+|  ⚪ 11 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 5 | 2 | 1 | 2 | -3 | 7 |
+|  ⚪ 12 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 4 | 2 | 0 | 2 | 4 | 6 |
+|  ⚪ 13 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 4 | 1 | 2 | 1 | 0 | 5 |
+|  ⚪ 14 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 5 | 1 | 2 | 2 | -2 | 5 |
+|  ⚪ 15 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 5 | 1 | 2 | 2 | -4 | 5 |
+|  ⚪ 16 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 5 | 1 | 1 | 3 | -3 | 4 |
+|  ⚪ 17 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 5 | 1 | 1 | 3 | -4 | 4 |
+|  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 5 | 1 | 0 | 4 | -8 | 3 |
 |  🔴 19 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 4 | 0 | 2 | 2 | -4 | 2 |
-|  🔴 20 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 4 | 0 | 0 | 4 | -7 | 0 |
+|  🔴 20 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 5 | 0 | 0 | 5 | -9 | 0 |
 
 <!-- STANDINGS:END -->
 
