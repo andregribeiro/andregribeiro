@@ -189,8 +189,8 @@ Here are some of the technologies I've been working with recently:
 |  ⚪ 14 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 20 | 7 | 6 | 7 | -1 | 27 |
 |  ⚪ 15 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 20 | 5 | 8 | 7 | -7 | 23 |
 |  ⚪ 16 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 20 | 5 | 7 | 8 | -7 | 22 |
-|  ⚪ 17 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 20 | 5 | 3 | 12 | -14 | 18 |
-|  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 20 | 3 | 5 | 12 | -20 | 14 |
+|  ⚪ 17 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 21 | 6 | 3 | 12 | -13 | 21 |
+|  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 21 | 3 | 5 | 13 | -21 | 14 |
 |  🔴 19 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 20 | 3 | 3 | 14 | -19 | 12 |
 |  🔴 20 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 20 | 1 | 3 | 16 | -26 | 6 |
 
