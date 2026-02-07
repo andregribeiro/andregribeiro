@@ -188,8 +188,8 @@ Here are some of the technologies I've been working with recently:
 |  ⚪ 13 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 24 | 7 | 10 | 7 | 2 | 31 |
 |  ⚪ 14 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 24 | 7 | 8 | 9 | 2 | 29 |
 |  ⚪ 15 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 24 | 7 | 8 | 9 | -4 | 29 |
-|  ⚪ 16 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 24 | 6 | 8 | 10 | -11 | 26 |
-|  ⚪ 17 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 24 | 7 | 5 | 12 | -11 | 26 |
+|  ⚪ 16 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 25 | 7 | 8 | 10 | -9 | 29 |
+|  ⚪ 17 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 25 | 7 | 5 | 13 | -13 | 26 |
 |  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 24 | 5 | 5 | 14 | -19 | 20 |
 |  🔴 19 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 24 | 3 | 6 | 15 | -22 | 15 |
 |  🔴 20 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 24 | 1 | 5 | 18 | -30 | 8 |
