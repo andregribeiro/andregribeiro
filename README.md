@@ -185,10 +185,10 @@ Here are some of the technologies I've been working with recently:
 |  ⚪ 10 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 29 | 12 | 4 | 13 | -3 | 40 |
 |  ⚪ 11 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 29 | 10 | 10 | 9 | -4 | 40 |
 |  ⚪ 12 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 29 | 11 | 6 | 12 | -1 | 39 |
-|  ⚪ 13 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 29 | 9 | 10 | 10 | 2 | 37 |
-|  ⚪ 14 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 28 | 9 | 8 | 11 | -4 | 35 |
+|  ⚪ 13 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 29 | 10 | 8 | 11 | -2 | 38 |
+|  ⚪ 14 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 29 | 9 | 10 | 10 | 2 | 37 |
 |  ⚪ 15 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 29 | 7 | 10 | 12 | -11 | 31 |
-|  ⚪ 16 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 28 | 7 | 8 | 13 | -5 | 29 |
+|  ⚪ 16 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 29 | 7 | 8 | 14 | -7 | 29 |
 |  ⚪ 17 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 29 | 7 | 7 | 15 | -15 | 28 |
 |  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 29 | 7 | 7 | 15 | -19 | 28 |
 |  🔴 19 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 29 | 4 | 7 | 18 | -26 | 19 |
