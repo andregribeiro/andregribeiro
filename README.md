@@ -175,13 +175,13 @@ Here are some of the technologies I've been working with recently:
 |-----|------|----|---|---|---|----|----|
 |  🟢 1 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 34 | 22 | 7 | 5 | 38 | 73 |
 |  🟦 2 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 33 | 21 | 7 | 5 | 37 | 70 |
-|  🟦 3 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 33 | 16 | 10 | 7 | 13 | 58 |
+|  🟦 3 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 34 | 17 | 10 | 7 | 14 | 61 |
 |  🟦 4 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 34 | 17 | 7 | 10 | 13 | 58 |
 |  🟨 5 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 34 | 17 | 7 | 10 | 5 | 58 |
 |  ⚪ 6 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 34 | 13 | 11 | 10 | 9 | 50 |
 |  ⚪ 7 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 34 | 11 | 16 | 7 | 0 | 49 |
 |  ⚪ 8 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 34 | 13 | 9 | 12 | 8 | 48 |
-|  ⚪ 9 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 33 | 13 | 9 | 11 | 4 | 48 |
+|  ⚪ 9 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 34 | 13 | 9 | 12 | 3 | 48 |
 |  ⚪ 10 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 34 | 14 | 6 | 14 | -2 | 48 |
 |  ⚪ 11 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 34 | 13 | 8 | 13 | 0 | 47 |
 |  ⚪ 12 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 34 | 12 | 10 | 12 | -9 | 46 |
