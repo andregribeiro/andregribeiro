@@ -173,26 +173,26 @@ Here are some of the technologies I've been working with recently:
 
 | Pos |  Club  | P | W | D | L | GD | Pts |
 |-----|------|----|---|---|---|----|----|
-|  🟢 1 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 35 | 23 | 7 | 5 | 41 | 76 |
-|  🟦 2 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 34 | 21 | 8 | 5 | 37 | 71 |
-|  🟦 3 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 35 | 18 | 10 | 7 | 15 | 64 |
-|  🟦 4 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 35 | 17 | 7 | 11 | 12 | 58 |
-|  🟨 5 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 35 | 17 | 7 | 11 | 4 | 58 |
-|  ⚪ 6 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 35 | 12 | 16 | 7 | 3 | 52 |
-|  ⚪ 7 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 35 | 14 | 9 | 12 | 6 | 51 |
-|  ⚪ 8 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 35 | 13 | 11 | 11 | 7 | 50 |
-|  ⚪ 9 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 35 | 13 | 9 | 13 | 6 | 48 |
-|  ⚪ 10 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 35 | 13 | 9 | 13 | 0 | 48 |
-|  ⚪ 11 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 35 | 14 | 6 | 15 | -5 | 48 |
-|  ⚪ 12 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 35 | 12 | 11 | 12 | -9 | 47 |
-|  ⚪ 13 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 35 | 13 | 6 | 16 | -2 | 45 |
-|  ⚪ 14 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 35 | 10 | 13 | 12 | -5 | 43 |
-|  ⚪ 15 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 34 | 11 | 10 | 13 | -6 | 43 |
-|  ⚪ 16 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 35 | 11 | 9 | 15 | -2 | 42 |
+|  🟢 1 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 36 | 24 | 7 | 5 | 42 | 79 |
+|  🟦 2 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 35 | 22 | 8 | 5 | 40 | 74 |
+|  🟦 3 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 36 | 18 | 11 | 7 | 15 | 65 |
+|  🟦 4 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 36 | 17 | 8 | 11 | 12 | 59 |
+|  🟨 5 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 36 | 17 | 8 | 11 | 4 | 59 |
+|  ⚪ 6 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 36 | 13 | 16 | 7 | 4 | 55 |
+|  ⚪ 7 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 36 | 14 | 11 | 11 | 10 | 53 |
+|  ⚪ 8 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 36 | 14 | 9 | 13 | 3 | 51 |
+|  ⚪ 9 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 36 | 13 | 10 | 13 | 6 | 49 |
+|  ⚪ 10 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 36 | 13 | 10 | 13 | 0 | 49 |
+|  ⚪ 11 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 36 | 14 | 6 | 16 | -6 | 48 |
+|  ⚪ 12 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 36 | 12 | 12 | 12 | -9 | 48 |
+|  ⚪ 13 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 36 | 13 | 7 | 16 | -2 | 46 |
+|  ⚪ 14 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 35 | 11 | 11 | 13 | -6 | 44 |
+|  ⚪ 15 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 36 | 11 | 10 | 15 | -2 | 43 |
+|  ⚪ 16 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 35 | 10 | 13 | 12 | -5 | 43 |
 |  ⚪ 17 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 35 | 9 | 10 | 16 | -9 | 37 |
-|  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 35 | 9 | 9 | 17 | -19 | 36 |
-|  🔴 19 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 35 | 4 | 8 | 23 | -36 | 20 |
-|  🔴 20 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 35 | 3 | 9 | 23 | -38 | 18 |
+|  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 36 | 9 | 9 | 18 | -20 | 36 |
+|  🔴 19 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 36 | 4 | 9 | 23 | -36 | 21 |
+|  🔴 20 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 36 | 3 | 9 | 24 | -41 | 18 |
 
 <!-- STANDINGS:END -->
 
