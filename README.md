@@ -186,10 +186,10 @@ Here are some of the technologies I've been working with recently:
 |  ⚪ 11 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 36 | 14 | 6 | 16 | -6 | 48 |
 |  ⚪ 12 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 36 | 12 | 12 | 12 | -9 | 48 |
 |  ⚪ 13 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 36 | 13 | 7 | 16 | -2 | 46 |
-|  ⚪ 14 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 35 | 11 | 11 | 13 | -6 | 44 |
-|  ⚪ 15 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 36 | 11 | 10 | 15 | -2 | 43 |
-|  ⚪ 16 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 35 | 10 | 13 | 12 | -5 | 43 |
-|  ⚪ 17 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 35 | 9 | 10 | 16 | -9 | 37 |
+|  ⚪ 14 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 36 | 10 | 14 | 12 | -5 | 44 |
+|  ⚪ 15 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 35 | 11 | 11 | 13 | -6 | 44 |
+|  ⚪ 16 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 36 | 11 | 10 | 15 | -2 | 43 |
+|  ⚪ 17 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 36 | 9 | 11 | 16 | -9 | 38 |
 |  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 36 | 9 | 9 | 18 | -20 | 36 |
 |  🔴 19 | <img src="https://crests.football-data.org/328.png" alt="Burnley FC" width="20" height="20"> Burnley FC | 36 | 4 | 9 | 23 | -36 | 21 |
 |  🔴 20 | <img src="https://crests.football-data.org/76.png" alt="Wolverhampton Wanderers FC" width="20" height="20"> Wolverhampton Wanderers FC | 36 | 3 | 9 | 24 | -41 | 18 |
