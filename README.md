@@ -174,7 +174,7 @@ Here are some of the technologies I've been working with recently:
 | Pos |  Club  | P | W | D | L | GD | Pts |
 |-----|------|----|---|---|---|----|----|
 |  🟢 1 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 36 | 24 | 7 | 5 | 42 | 79 |
-|  🟦 2 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 35 | 22 | 8 | 5 | 40 | 74 |
+|  🟦 2 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 36 | 23 | 8 | 5 | 43 | 77 |
 |  🟦 3 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 36 | 18 | 11 | 7 | 15 | 65 |
 |  🟦 4 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 36 | 17 | 8 | 11 | 12 | 59 |
 |  🟨 5 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 36 | 17 | 8 | 11 | 4 | 59 |
@@ -187,7 +187,7 @@ Here are some of the technologies I've been working with recently:
 |  ⚪ 12 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 36 | 12 | 12 | 12 | -9 | 48 |
 |  ⚪ 13 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 36 | 13 | 7 | 16 | -2 | 46 |
 |  ⚪ 14 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 36 | 10 | 14 | 12 | -5 | 44 |
-|  ⚪ 15 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 35 | 11 | 11 | 13 | -6 | 44 |
+|  ⚪ 15 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 36 | 11 | 11 | 14 | -9 | 44 |
 |  ⚪ 16 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 36 | 11 | 10 | 15 | -2 | 43 |
 |  ⚪ 17 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 36 | 9 | 11 | 16 | -9 | 38 |
 |  🔴 18 | <img src="https://crests.football-data.org/563.png" alt="West Ham United FC" width="20" height="20"> West Ham United FC | 36 | 9 | 9 | 18 | -20 | 36 |
