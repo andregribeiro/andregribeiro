@@ -176,8 +176,8 @@ Here are some of the technologies I've been working with recently:
 |  🟢 1 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 36 | 24 | 7 | 5 | 42 | 79 |
 |  🟦 2 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 36 | 23 | 8 | 5 | 43 | 77 |
 |  🟦 3 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 36 | 18 | 11 | 7 | 15 | 65 |
-|  🟦 4 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 36 | 17 | 8 | 11 | 12 | 59 |
-|  🟨 5 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 36 | 17 | 8 | 11 | 4 | 59 |
+|  🟦 4 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 37 | 18 | 8 | 11 | 6 | 62 |
+|  🟨 5 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 37 | 17 | 8 | 12 | 10 | 59 |
 |  ⚪ 6 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 36 | 13 | 16 | 7 | 4 | 55 |
 |  ⚪ 7 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 36 | 14 | 11 | 11 | 10 | 53 |
 |  ⚪ 8 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 36 | 14 | 9 | 13 | 3 | 51 |
