@@ -175,11 +175,11 @@ Here are some of the technologies I've been working with recently:
 |-----|------|----|---|---|---|----|----|
 |  🟢 1 | <img src="https://crests.football-data.org/57.png" alt="Arsenal FC" width="20" height="20"> Arsenal FC | 4 | 4 | 0 | 0 | 7 | 12 |
 |  🟦 2 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 4 | 4 | 0 | 0 | 6 | 12 |
-|  🟦 3 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 4 | 2 | 2 | 0 | 4 | 8 |
-|  🟦 4 | <img src="https://crests.football-data.org/322.png" alt="Hull City AFC" width="20" height="20"> Hull City AFC | 4 | 2 | 2 | 0 | 3 | 8 |
-|  🟨 5 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 4 | 2 | 1 | 1 | 8 | 7 |
-|  ⚪ 6 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 4 | 2 | 1 | 1 | 1 | 7 |
-|  ⚪ 7 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 4 | 1 | 3 | 0 | 3 | 6 |
+|  🟦 3 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 5 | 2 | 3 | 0 | 6 | 9 |
+|  🟦 4 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 4 | 2 | 2 | 0 | 4 | 8 |
+|  🟨 5 | <img src="https://crests.football-data.org/322.png" alt="Hull City AFC" width="20" height="20"> Hull City AFC | 4 | 2 | 2 | 0 | 3 | 8 |
+|  ⚪ 6 | <img src="https://crests.football-data.org/397.png" alt="Brighton & Hove Albion FC" width="20" height="20"> Brighton & Hove Albion FC | 4 | 2 | 1 | 1 | 8 | 7 |
+|  ⚪ 7 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 5 | 2 | 1 | 2 | -2 | 7 |
 |  ⚪ 8 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 4 | 1 | 3 | 0 | 2 | 6 |
 |  ⚪ 9 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 4 | 1 | 3 | 0 | 2 | 6 |
 |  ⚪ 10 | <img src="https://crests.football-data.org/349.png" alt="Ipswich Town FC" width="20" height="20"> Ipswich Town FC | 4 | 2 | 0 | 2 | -3 | 6 |
