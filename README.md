@@ -188,11 +188,11 @@ Here are some of the technologies I've been working with recently:
 |  ⚪ 13 | <img src="https://crests.football-data.org/66.png" alt="Manchester United FC" width="20" height="20"> Manchester United FC | 7 | 1 | 4 | 2 | 0 | 7 |
 |  ⚪ 14 | <img src="https://crests.football-data.org/354.png" alt="Crystal Palace FC" width="20" height="20"> Crystal Palace FC | 7 | 2 | 1 | 4 | -8 | 7 |
 |  ⚪ 15 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 7 | 1 | 3 | 3 | -4 | 6 |
-|  ⚪ 16 | <img src="https://crests.football-data.org/1076.png" alt="Coventry City FC" width="20" height="20"> Coventry City FC | 6 | 2 | 0 | 4 | -6 | 6 |
-|  ⚪ 17 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 7 | 1 | 2 | 4 | -3 | 5 |
-|  🔴 18 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 7 | 1 | 2 | 4 | -4 | 5 |
-|  🔴 19 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 7 | 1 | 1 | 5 | -8 | 4 |
-|  🔴 20 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 6 | 0 | 3 | 3 | -6 | 3 |
+|  ⚪ 16 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 7 | 1 | 3 | 3 | -4 | 6 |
+|  ⚪ 17 | <img src="https://crests.football-data.org/1076.png" alt="Coventry City FC" width="20" height="20"> Coventry City FC | 7 | 2 | 0 | 5 | -8 | 6 |
+|  🔴 18 | <img src="https://crests.football-data.org/63.png" alt="Fulham FC" width="20" height="20"> Fulham FC | 7 | 1 | 2 | 4 | -3 | 5 |
+|  🔴 19 | <img src="https://crests.football-data.org/351.png" alt="Nottingham Forest FC" width="20" height="20"> Nottingham Forest FC | 7 | 1 | 2 | 4 | -4 | 5 |
+|  🔴 20 | <img src="https://crests.football-data.org/71.png" alt="Sunderland AFC" width="20" height="20"> Sunderland AFC | 7 | 1 | 1 | 5 | -8 | 4 |
 
 <!-- STANDINGS:END -->
 
