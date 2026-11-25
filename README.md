@@ -178,11 +178,11 @@ Here are some of the technologies I've been working with recently:
 |  🟦 3 | <img src="https://crests.football-data.org/65.png" alt="Manchester City FC" width="20" height="20"> Manchester City FC | 11 | 7 | 1 | 3 | 8 | 22 |
 |  🟦 4 | <img src="https://crests.football-data.org/64.png" alt="Liverpool FC" width="20" height="20"> Liverpool FC | 11 | 6 | 3 | 2 | 8 | 21 |
 |  🟨 5 | <img src="https://crests.football-data.org/bournemouth.png" alt="AFC Bournemouth" width="20" height="20"> AFC Bournemouth | 11 | 5 | 3 | 3 | 4 | 18 |
-|  ⚪ 6 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 11 | 4 | 5 | 2 | 5 | 17 |
-|  ⚪ 7 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 10 | 4 | 4 | 2 | 2 | 16 |
+|  ⚪ 6 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 11 | 4 | 5 | 2 | 9 | 17 |
+|  ⚪ 7 | <img src="https://crests.football-data.org/341.png" alt="Leeds United FC" width="20" height="20"> Leeds United FC | 11 | 4 | 5 | 2 | 5 | 17 |
 |  ⚪ 8 | <img src="https://crests.football-data.org/61.png" alt="Chelsea FC" width="20" height="20"> Chelsea FC | 11 | 5 | 1 | 5 | 0 | 16 |
-|  ⚪ 9 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 11 | 4 | 3 | 4 | 1 | 15 |
-|  ⚪ 10 | <img src="https://crests.football-data.org/402.png" alt="Brentford FC" width="20" height="20"> Brentford FC | 10 | 3 | 5 | 2 | 5 | 14 |
+|  ⚪ 9 | <img src="https://crests.football-data.org/62.png" alt="Everton FC" width="20" height="20"> Everton FC | 11 | 4 | 4 | 3 | -2 | 16 |
+|  ⚪ 10 | <img src="https://crests.football-data.org/73.png" alt="Tottenham Hotspur FC" width="20" height="20"> Tottenham Hotspur FC | 11 | 4 | 3 | 4 | 1 | 15 |
 |  ⚪ 11 | <img src="https://crests.football-data.org/322.png" alt="Hull City AFC" width="20" height="20"> Hull City AFC | 11 | 3 | 5 | 3 | 2 | 14 |
 |  ⚪ 12 | <img src="https://crests.football-data.org/58.png" alt="Aston Villa FC" width="20" height="20"> Aston Villa FC | 11 | 3 | 5 | 3 | -3 | 14 |
 |  ⚪ 13 | <img src="https://crests.football-data.org/67.png" alt="Newcastle United FC" width="20" height="20"> Newcastle United FC | 11 | 3 | 4 | 4 | -3 | 13 |
